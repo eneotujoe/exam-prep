@@ -151,7 +151,7 @@ export default function ChatWithFiles() {
               Multichoice Prep With AI
             </CardTitle>
             <CardDescription className="text-amber-900 font-medium">
-              Generate multiple choice exam questions answers from PDF document using <b>Google Generative AI Model</b>
+              Generate multiple choice exam questions from PDF document using <b>Google Generative AI Model</b>
             </CardDescription>
           </div>
         </CardHeader>
